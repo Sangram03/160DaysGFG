@@ -1,0 +1,46 @@
+Stock Buy and Sell – Max one Transaction Allowed
+Difficulty: EasyAccuracy: 49.33%Submissions: 42K+Points: 2
+Given an array prices[] of length n, representing the prices of the stocks on different days. The task is to find the maximum profit possible by buying and selling the stocks on different days when at most one transaction is allowed. Here one transaction means 1 buy + 1 Sell. If it is not possible to make a profit then return 0.
+
+Note: Stock must be bought before being sold.
+
+Examples:
+
+Input: prices[] = [7, 10, 1, 3, 6, 9, 2]
+Output: 8
+Explanation: You can buy the stock on day 2 at price = 1 and sell it on day 5 at price = 9. Hence, the profit is 8.
+Input: prices[] = [7, 6, 4, 3, 1]
+Output: 0 
+Explanation: Here the prices are in decreasing order, hence if we buy any day then we cannot sell it at a greater price. Hence, the answer is 0.
+Input: prices[] = [1, 3, 6, 9, 11]
+Output: 10 
+Explanation: Since the array is sorted in increasing order, we can make maximum profit by buying at price[0] and selling at price[n-1].
+Constraint:
+1 <= prices.size()<= 105
+0 <= prices[i] <=104
+
+
+
+
+
+class Solution {
+    public int maximumProfit(int prices[]) {
+        // Initialize variables to track the minimum price and maximum profit
+        int minPrice = Integer.MAX_VALUE; // Set to a very large value initially
+        int maxProfit = 0; // Initialize max profit to 0
+
+        // Iterate through the prices array
+        for (int price : prices) {
+            // Update the minimum price if a lower price is found
+            minPrice = Math.min(minPrice, price);
+
+            // Calculate the profit if selling at the current price
+            int profit = price - minPrice;
+
+            // Update the maximum profit if the current profit is higher
+            maxProfit = Math.max(maxProfit, profit);
+        }
+
+        return maxProfit; // Return the maximum profit
+    }
+}
