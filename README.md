@@ -35,7 +35,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 12 : Max Circular Subarray Sum](https://github.com/Sangram03/160DaysGFG/blob/main/day12Logic.md)
 
-- [Day 1 : Smallest Positive Missing Number](https://github.com/Sangram03/160DaysGFG/blob/main/day13Logic.md)
+- [Day 13 : Smallest Positive Missing Number](https://github.com/Sangram03/160DaysGFG/blob/main/day13Logic.md)
 
 
 
