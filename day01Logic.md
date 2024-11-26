@@ -3,7 +3,7 @@ The provided code snippet is for finding the second largest element in an array.
 ---
 
 ### Code Explanation:
-#java
+# java
 ```java
 class Solution {
     public int getSecondLargest(int[] arr) {
