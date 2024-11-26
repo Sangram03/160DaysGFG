@@ -3,6 +3,26 @@ Here’s the dry run of the `pushZerosToEnd` method. It moves all non-zero eleme
 ---
 
 ### Code Explanation:
+
+# java
+```java
+class Solution {
+    void pushZerosToEnd(int[] arr) {
+        int n = arr.length;
+        int nonZeroIndex = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (arr[i] != 0) {
+                int temp = arr[nonZeroIndex];
+                arr[nonZeroIndex] = arr[i];
+                arr[i] = temp;
+                nonZeroIndex++;
+            }
+        }
+    }
+}
+```
+
 - **Input:** `arr = [0, 1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9]`
 - `nonZeroIndex` keeps track of the position to place the next non-zero element.
 
