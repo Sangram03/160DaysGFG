@@ -2,6 +2,31 @@ The given code calculates the **maximum profit** that can be obtained from a sto
 
 ---
 
+# java
+```java
+class Solution {
+    public int maximumProfit(int prices[]) {
+        // Initialize variables to track the minimum price and maximum profit
+        int minPrice = Integer.MAX_VALUE; // Set to a very large value initially
+        int maxProfit = 0; // Initialize max profit to 0
+
+        // Iterate through the prices array
+        for (int price : prices) {
+            // Update the minimum price if a lower price is found
+            minPrice = Math.min(minPrice, price);
+
+            // Calculate the profit if selling at the current price
+            int profit = price - minPrice;
+
+            // Update the maximum profit if the current profit is higher
+            maxProfit = Math.max(maxProfit, profit);
+        }
+
+        return maxProfit; // Return the maximum profit
+    }
+}
+```
+
 ### Example Input:
 ```java
 prices = {7, 1, 5, 3, 6, 4}

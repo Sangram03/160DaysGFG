@@ -1,5 +1,40 @@
 Let’s perform a dry run of the provided code, which aims to minimize the height difference between the tallest and shortest towers after modifying each tower’s height by a given value `k`.
 
+
+
+
+# java
+```java
+class Solution {
+    int getMinDiff(int[] arr, int k) {
+        // Step 1: Sort the array
+        Arrays.sort(arr);
+        int n = arr.length;
+
+        // Step 2: Initialize the difference between the tallest and shortest tower
+        int result = arr[n - 1] - arr[0];
+
+        // Step 3: Smallest and largest heights after modification
+        int smallest = arr[0] + k;
+        int largest = arr[n - 1] - k;
+
+        // Step 4: Traverse the array and compute the minimum difference
+        for (int i = 0; i < n - 1; i++) {
+            int currentMax = Math.max(arr[i] + k, largest);
+            int currentMin = Math.min(arr[i + 1] - k, smallest);
+
+            // Ensure heights remain non-negative
+            if (currentMin < 0) continue;
+
+            // Update the result with the minimum difference found
+            result = Math.min(result, currentMax - currentMin);
+        }
+
+        return result;
+    }
+}
+```
+
 ### Example Input:
 ```java
 arr = {1, 5, 8, 10}, k = 2

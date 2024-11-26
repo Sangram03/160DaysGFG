@@ -3,6 +3,21 @@ The provided method `reverseArray` reverses an integer array using Java’s coll
 ---
 
 ### Key Components:
+
+
+# java
+```java
+class Solution {
+    public void reverseArray(int[] arr) {
+        Integer[] boxedArray = Arrays.stream(arr).boxed().toArray(Integer[]::new);
+        List<Integer> list = Arrays.asList(boxedArray);
+        Collections.reverse(list);
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = list.get(i);
+        }
+    }
+}
+```
 1. **Boxing:**
    - Converts the `int[]` (primitive) array into an `Integer[]` (object) array to work with Java's `Collections` utilities.
 2. **List Conversion:**

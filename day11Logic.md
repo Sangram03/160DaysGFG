@@ -1,5 +1,35 @@
 Let's dry run the provided code for the `maxProduct` method using an example input. The goal is to find the maximum product of a contiguous subarray.
 
+
+# java
+```java
+class Solution {
+
+    int maxProduct(int[] nums) {
+        int maxProduct = nums[0];
+        int maxVal = nums[0];
+        int minVal = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < 0) {
+
+                int temp = maxVal;
+                maxVal = minVal;
+                minVal = temp;
+            }
+
+            maxVal = Math.max(nums[i], maxVal * nums[i]);
+            minVal = Math.min(nums[i], minVal * nums[i]);
+
+            maxProduct = Math.max(maxProduct, maxVal);
+        }
+
+        return maxProduct;
+    }
+}
+```
+
+
 ### Code Explanation:
 - We maintain two variables, `maxVal` and `minVal`, which track the maximum and minimum products up to the current element. The reason we track both is that a negative number can turn the smallest product into the largest product, so we need to handle this case.
 - `maxProduct` keeps track of the overall maximum product encountered during the iteration.

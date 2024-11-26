@@ -1,5 +1,25 @@
 Let's perform a dry run of the provided `maxSubarraySum` method using Kadane's Algorithm. This algorithm efficiently computes the maximum sum of a contiguous subarray in a given array.
 
+
+
+# java
+```java
+class Solution {
+    public int maxSubarraySum(int[] arr) {
+        int maxSum = Integer.MIN_VALUE; // Store the maximum sum
+        int currentSum = 0; // Track the sum of the current subarray
+
+        for (int num : arr) {
+            currentSum = Math.max(num, currentSum + num); // Extend or start a new subarray
+            maxSum = Math.max(maxSum, currentSum); // Update maxSum if needed
+        }
+
+        return maxSum;
+    }
+}
+```
+
+
 ### Example Input:
 ```java
 arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4}

@@ -1,5 +1,58 @@
 Let's dry-run the `circularSubarraySum` function with an example array to see how it works step by step.
 
+
+
+# java
+```java
+class Solution {
+
+    // Function to find maximum circular subarray sum.
+    public int circularSubarraySum(int arr[]) {
+        int n = arr.length;
+
+        // Step 1: Find the maximum subarray sum using Kadane's algorithm
+        int maxKadane = kadane(arr);
+        
+        // Step 2: Compute the total sum of the array
+        int totalSum = 0;
+        for (int num : arr) {
+            totalSum += num;
+        }
+
+        // Step 3: Invert the elements and find the minimum subarray sum using Kadane's algorithm
+        for (int i = 0; i < n; i++) {
+            arr[i] = -arr[i];
+        }
+        int minSubarraySum = kadane(arr);
+
+        // Restore the original array
+        for (int i = 0; i < n; i++) {
+            arr[i] = -arr[i];
+        }
+
+        // Step 4: Compute the maximum circular subarray sum
+        int maxCircular = totalSum + minSubarraySum;
+
+        // Step 5: Handle edge case where all elements are negative
+        if (maxCircular == 0) return maxKadane;
+
+        // Return the maximum of both cases
+        return Math.max(maxKadane, maxCircular);
+    }
+
+    // Helper function to find the maximum subarray sum using Kadane's algorithm
+    private int kadane(int[] arr) {
+        int maxEndingHere = arr[0];
+        int maxSoFar = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            maxEndingHere = Math.max(arr[i], maxEndingHere + arr[i]);
+            maxSoFar = Math.max(maxSoFar, maxEndingHere);
+        }
+        return maxSoFar;
+    }
+}
+```
+
 ### Example Array:
 `arr = [8, -4, 3, -5, 4]`
 

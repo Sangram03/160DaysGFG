@@ -2,6 +2,26 @@ The provided code calculates the **maximum profit** from a series of stock price
 
 ---
 
+
+# java
+```java
+class Solution {
+    public int maximumProfit(int prices[]) {
+        int profit = 0;
+        
+        // Iterate through the prices array
+        for (int i = 1; i < prices.length; i++) {
+            // If the current price is greater than the previous price, we make a profit
+            if (prices[i] > prices[i - 1]) {
+                profit += prices[i] - prices[i - 1];
+            }
+        }
+        
+        return profit;
+    }
+}
+```
+
 ### Example Input:
 ```java
 prices = {7, 1, 5, 3, 6, 4}
