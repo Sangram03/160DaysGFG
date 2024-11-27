@@ -37,7 +37,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 13 : Smallest Positive Missing Number](https://github.com/Sangram03/160DaysGFG/blob/main/day13Logic.md)
 
-- [Day 14 : Implement Atoi](https://github.com/Sangram03/160DaysGFG/blob/main/day13Logic.md)
+- [Day 14 : Implement Atoi](https://github.com/Sangram03/160DaysGFG/blob/main/day14Logic.md)
 
 
 
