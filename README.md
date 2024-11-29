@@ -39,5 +39,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 14 : Implement Atoi](https://github.com/Sangram03/160DaysGFG/blob/main/day14Logic.md)
 
+- [Day 15 : Add Binary Strings ](https://github.com/Sangram03/160DaysGFG/blob/main/day15Logic.md)
 
 
