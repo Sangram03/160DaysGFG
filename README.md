@@ -43,4 +43,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 16 : Anagram ](https://github.com/Sangram03/160DaysGFG/blob/main/day16Logic.md)
 
+- [Day 17 : Non Repeating Character ](https://github.com/Sangram03/160DaysGFG/blob/main/day17Logic.md)
+
 
