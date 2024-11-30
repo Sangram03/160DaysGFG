@@ -1,7 +1,7 @@
 ## 📜 Table of Contents 📜
 
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 </a>
 
