@@ -19,3 +19,5 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 - [Bonus 1: Split array in three equal sum subarrays](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus01Logic.md)
 
 - [Bonus 2 : Repetitive Addition Of Digits](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus02Logic.md)
+
+- [Bonus 3 : Maximize Number of 1's](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md)
