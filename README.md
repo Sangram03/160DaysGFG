@@ -41,4 +41,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 15 : Add Binary Strings ](https://github.com/Sangram03/160DaysGFG/blob/main/day15Logic.md)
 
+- [Day 16 : Anagram ](https://github.com/Sangram03/160DaysGFG/blob/main/day16Logic.md)
+
 
