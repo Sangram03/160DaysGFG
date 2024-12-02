@@ -57,4 +57,3 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-This format aligns with the typical **contributing guidelines** used in GitHub repositories, emphasizing clarity and organization for contributors. Make sure to adjust any specifics (like repository links) as needed.
