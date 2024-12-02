@@ -19,7 +19,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
 
-- [Bonus Question Answer](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/README.md)
+- [Bonus Question Answer 👉 Click Here ](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/README.md)
 
 <!--Line-->
 
@@ -35,7 +35,7 @@ Here’s the updated table with relevant emojis added for each problem:
 
 ---
 
-| **Day**   | **Problem Name**                                            |                               **Solution**                               |
+| **Day**   | **Problem Name**                                            |                               **Java ☕**                               |
 |:---------:|:----------------------------------------------------------:|:------------------------------------------------------------------------:|
 | Day 1     | **Second Largest** 🔢🏅                                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/day01Logic.md) |
 | Day 2     | **Move All Zeroes to End** 🔄0️⃣                           | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/day02Logic.md) |
