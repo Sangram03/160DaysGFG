@@ -20,6 +20,7 @@ Here's the table updated to include only **Java** solutions:
 
 ---
 <p align ="centre">
+  
 ## **🎉 Bonus Problems (Arrays)🎁**
 
 | **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
