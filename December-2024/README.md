@@ -11,7 +11,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 ### 🔮Your feedback is valuable! Please consider leaving a 🌟 star 🌟 and sharing your thoughts in the comments.
 
 
-## **🎉 December Problems 🎁**
+## **📅 December 2024 Problem of the Day Solutions 📅**
 
 | **December**  | **Problem Name**                                    |                          **Java** ☕                          |
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
