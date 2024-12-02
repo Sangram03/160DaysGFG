@@ -11,13 +11,23 @@ For discussions, questions, or doubts related to this solution, please visit my 
 
 
 
-## Introduction To The Bonus Question Answer
 
 This repository contains solutions to daily problems from GeeksforGeeks. Each day, a new problem is provided along with its solution.
 
 
-- [Bonus 1: Split array in three equal sum subarrays](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus01Logic.md)
 
-- [Bonus 2 : Repetitive Addition Of Digits](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus02Logic.md)
+Here's the table updated to include only **Java** solutions:
 
-- [Bonus 3 : Maximize Number of 1's](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md)
+---
+
+## **🎉 Bonus Problems (Arrays)🎁**
+
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Split Array in Three Equal Sum Subarrays** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus01Logic.md) |
+| _NUM 2_    | **Repetitive Addition of Digits** 🔢🔄💥 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus02Logic.md) |
+| _NUM 3_    | **Maximize Number of 1's** 🔢🔥💡 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md) |
+| _NUM 4_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md)
+
+---
+
