@@ -19,7 +19,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 Here's the table updated to include only **Java** solutions:
 
 ---
-
+<p align ="centre">
 ## **🎉 Bonus Problems (Arrays)🎁**
 
 | **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
@@ -31,3 +31,4 @@ Here's the table updated to include only **Java** solutions:
 
 ---
 
+</p>
