@@ -25,7 +25,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
-Here’s the provided list reformatted into a clean table with centered content:
 
 ---
 
