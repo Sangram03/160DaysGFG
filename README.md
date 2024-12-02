@@ -1,9 +1,9 @@
 ## 📜 Table of Contents 📜
 
 <!--Line-->
-<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-</a>
+
 
 For discussions, questions, or doubts related to this solution, please visit my Twitter : [Any Questions](https://x.com/Sangram87661527?s=08 ). Thank you for your input, together, we strive to create a space where learning is a collaborative endeavor.
 
@@ -15,16 +15,15 @@ For discussions, questions, or doubts related to this solution, please visit my 
 This repository contains solutions to daily problems from GeeksforGeeks. Each day, a new problem is provided along with its solution.
 
 <!--Line-->
-<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-</a>
+
 
 - [Bonus Question Answer](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/README.md)
 
 <!--Line-->
-<a href="https://github.com/Sangram03/GeeksforGeeks-POTD" style="text-decoration: none;">
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-</a>
 
 - [Day 1: Second Largest](https://github.com/Sangram03/160DaysGFG/blob/main/day01Logic.md)
 
