@@ -35,8 +35,6 @@ Here’s the updated table with relevant emojis added for each problem:
 
 ---
 
-## **🎉 160 Days of GFG Challenge 🎁**
-
 | **Day**   | **Problem Name**                                            |                               **Solution**                               |
 |:---------:|:----------------------------------------------------------:|:------------------------------------------------------------------------:|
 | Day 1     | **Second Largest** 🔢🏅                                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/day01Logic.md) |
