@@ -59,4 +59,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 - [Day 17 : Non Repeating Character ](https://github.com/Sangram03/160DaysGFG/blob/main/day17Logic.md)
 
+- [Day 18 : Search Pattern (KMP-Algorithm) ](https://github.com/Sangram03/160DaysGFG/blob/main/day18Logic.md)
+
 
