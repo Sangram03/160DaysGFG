@@ -28,7 +28,7 @@ Here's the table updated to include only **Java** solutions:
 | _NUM 1_    | **Split Array in Three Equal Sum Subarrays** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus01Logic.md) |
 | _NUM 2_    | **Repetitive Addition of Digits** 🔢🔄💥 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus02Logic.md) |
 | _NUM 3_    | **Maximize Number of 1's** 🔢🔥💡 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md) |
-| _NUM 4_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md)
+| _NUM 4_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus04Logic.md)
 
 ---
 
