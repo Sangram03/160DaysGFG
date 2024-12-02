@@ -1,0 +1,83 @@
+Search Pattern (KMP-Algorithm)
+Difficulty: MediumAccuracy: 45.04%Submissions: 73K+Points: 4
+Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. 
+Note: Return an empty list in case of no occurrences of pattern.
+
+Examples :
+
+Input: txt = "abcab", pat = "ab"
+Output: [0, 3]
+Explanation: The string "ab" occurs twice in txt, one starts at index 0 and the other at index 3. 
+Input: txt = "abesdu", pat = "edu"
+Output: []
+Explanation: There's no substring "edu" present in txt.
+Input: txt = "aabaacaadaabaaba", pat = "aaba"
+Output: [0, 9, 12]
+Explanation:
+
+Constraints:
+1 ≤ txt.size() ≤ 106
+1 ≤ pat.size() < txt.size()
+Both the strings consist of lowercase English alphabets.
+
+
+
+
+
+
+class Solution {
+    ArrayList<Integer> search(String pat, String txt) {
+        ArrayList<Integer> result = new ArrayList<>();
+        int m = pat.length(); // Length of the pattern
+        int n = txt.length(); // Length of the text
+        int base = 256; // Number of characters in the input alphabet
+        int mod = 101; // A prime number to avoid overflow in hash computation
+
+        if (m > n) return result; // If pattern length is greater than text length
+
+        // Compute the hash value of the pattern and the first window of text
+        int patHash = 0, txtHash = 0, h = 1;
+
+        // The value of h would be "pow(base, m-1) % mod"
+        for (int i = 0; i < m - 1; i++) {
+            h = (h * base) % mod;
+        }
+
+        // Calculate initial hash values for pattern and first window of text
+        for (int i = 0; i < m; i++) {
+            patHash = (base * patHash + pat.charAt(i)) % mod;
+            txtHash = (base * txtHash + txt.charAt(i)) % mod;
+        }
+
+        // Slide the pattern over the text
+        for (int i = 0; i <= n - m; i++) {
+            // Check if the hash values match
+            if (patHash == txtHash) {
+                // Verify the actual strings to avoid false positives due to hash collision
+                if (txt.substring(i, i + m).equals(pat)) {
+                    result.add(i); // Add 0-based index
+                }
+            }
+
+            // Compute the hash value for the next window of text
+            if (i < n - m) {
+                txtHash = (base * (txtHash - txt.charAt(i) * h) + txt.charAt(i + m)) % mod;
+
+                // If we get a negative hash, convert it to positive
+                if (txtHash < 0) {
+                    txtHash += mod;
+                }
+            }
+        }
+
+        return result;
+    }
+
+    // Test the function
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.search("geek", "geeksforgeeks")); // Output: [0, 8]
+        System.out.println(sol.search("aaa", "aaaaaa"));         // Output: [0, 1, 2, 3]
+        System.out.println(sol.search("xyz", "abcdef"));         // Output: []
+    }
+}
