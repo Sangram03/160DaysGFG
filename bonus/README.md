@@ -1,4 +1,4 @@
-## 📜 Table of Contents 📜
+<h1 align ="center">📜 Table of Contents 📜</h1> 
 
 <!--Line-->
 
