@@ -35,7 +35,6 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 ## **🎉 160 Days of GFG Challenge 🎁**
 
-Here’s the updated table with relevant emojis added for each problem:
 
 ---
 
