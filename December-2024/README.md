@@ -17,6 +17,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
 | Day1                | **Non Repeating Character** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_01Logic.md)   |
 | Day 2                | **Search Pattern (KMP-Algorithm)** 🔢🔄💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_02Logic.md)   |
+| Day 3                | **Min Chars to Add for Palindrome** 🔢📃💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_03Logic.md)   |
 
 
 ---
