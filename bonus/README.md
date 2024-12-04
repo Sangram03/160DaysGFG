@@ -31,5 +31,8 @@ Here's the table updated to include only **Java** solutions:
 | _NUM 4_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus04Logic.md)
 
 ---
+## **🎉 Bonus Problems (Strings)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 
 </p>
