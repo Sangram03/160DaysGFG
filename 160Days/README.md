@@ -27,3 +27,4 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 17    | **Non Repeating Character** 🔠❌                            | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day17Logic.md) |
 | Day 18    | **Search Pattern (KMP Algorithm)** 🔍📜                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day18Logic.md) |
 | Day 19    | **Min Chars to Add for Palindrome** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day19Logic.md) |
+| Day 20    | **Strings Rotations of Each Other** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day20Logic.md) |
