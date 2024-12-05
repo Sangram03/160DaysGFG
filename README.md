@@ -34,6 +34,14 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 
 ---
+## **🎉 Bonus Problems (Strings)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Fizz Buzz** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus05Logic.md) |
+| _NUM 2_    | **CamelCase Pattern Matching** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
+
+
+---
 
 ## **🎉 160 Days of GFG Challenge 🎁**
 
@@ -64,7 +72,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 18    | **Search Pattern (KMP Algorithm)** 🔍📜                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day18Logic.md) |
 | Day 19    | **Min Chars to Add for Palindrome** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day19Logic.md) |
 | Day 20    | **Strings Rotations of Each Other** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day20Logic.md) |
-| Day 21    | **Sort 0s, 1s and 2s** 🔍📃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
+| Day 21    | **Sort 0s, 1s and 2s** 📃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
 
 ---
 
