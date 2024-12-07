@@ -73,9 +73,6 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 18    | **Search Pattern (KMP Algorithm)** 🔍📜                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day18Logic.md) |
 | Day 19    | **Min Chars to Add for Palindrome** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day19Logic.md) |
 | Day 20    | **Strings Rotations of Each Other** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day20Logic.md) |
-| Day 21    | **Sort 0s, 1s and 2s** 📃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
-| Day 22    | **Find H-Index** 🔮 🐱 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day22Logic.md) |
-| Day 20    | **Strings Rotations of Each Other** ⚙️🕧⌛                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day20Logic.md) |
 | Day 21    | **Sort 0s, 1s and 2s** 📃📏✏️                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
 | Day 22    | **Find H-Index** 🔮 🐱 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day22Logic.md) |
 | Day 23    | **Count Inversions** 😀 🧡 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day23Logic.md) |
