@@ -22,6 +22,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 4                | **Strings Rotations of Each Other** 📃💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_04Logic.md)  |
 | Day 5                | **Sort 0s, 1s and 2s** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_05Logic.md)  |
 | Day 6                | **Find H-Index** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_06Logic.md)     |
+| Day 7                | **Count Inversions** 😀 🧡 🌺                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_07Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
