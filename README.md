@@ -23,6 +23,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 5                | **Sort 0s, 1s and 2s** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_05Logic.md)  |
 | Day 6                | **Find H-Index** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_06Logic.md)     |
 | Day 7                | **Count Inversions** 😀 🧡 🌺                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_07Logic.md)      |
+| Day 8                | **Overlapping Intervals** ❤️ 🔮 🐶                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_08Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -77,6 +78,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 21    | **Sort 0s, 1s and 2s** 📃📏✏️                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
 | Day 22    | **Find H-Index** 🔮 🐱 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day22Logic.md) |
 | Day 23    | **Count Inversions** 😀 🧡 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day23Logic.md) |
+| Day 24    | **Overlapping Intervals** ❤️ 🔮 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day24Logic.md) |
 
 ---
 
