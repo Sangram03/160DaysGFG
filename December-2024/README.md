@@ -23,6 +23,8 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 6                | **Find H-Index** 🔮 🐱 😃                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_06Logic.md)     |
 | Day 7                | **Count Inversions** 😀 🧡 🌺                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_07Logic.md)      |
 | Day 8                | **Overlapping Intervals** ❤️ 🔮 🐶                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_08Logic.md)      |
+| Day 9                | **Insert Interval** 🌸 💎 😃                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_09Logic.md)      |
+
 
 
 ---
