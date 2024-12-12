@@ -26,6 +26,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 9                | **Insert Interval** 🌸 💎 😃                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_09Logic.md)      |
 | Day 10                | **Non-overlapping Intervals** 😃 🌸 🐱                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_10Logic.md)      |
 | Day 11                | **Merge Without Extra Space** 😀 ❤️ 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_11Logic.md)      |
+| Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
 
 
 

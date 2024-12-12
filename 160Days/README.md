@@ -35,3 +35,4 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 25    | **Insert Interval**🌸 💎 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day25Logic.md) |
 | Day 26    | **Non-overlapping Intervals**😃 🌸 🐱                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day26Logic.md) |
 | Day 27    | **Merge Without Extra Space**😀 ❤️ 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
+| Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
