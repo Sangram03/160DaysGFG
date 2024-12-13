@@ -35,6 +35,8 @@ Here's the table updated to include only **Java** solutions:
 | **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
 |:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | _NUM 1_    | **Fizz Buzz** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus05Logic.md) |
-| _NUM 2_    | **CamelCase Pattern Matching** 🚀🛤️🟰 | | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
+| _NUM 2_    | **CamelCase Pattern Matching** 🚀🛤️🟰 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
+| _NUM 3_    | **Palindrome Sentence** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
+
 
 </p>
