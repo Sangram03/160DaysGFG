@@ -29,6 +29,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 11                | **Merge Without Extra Space** 😀 ❤️ 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_11Logic.md)      |
 | Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
 | Day 13                | **Sorted and Rotated Minimum** ❤️ 🌺 😀                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_13Logic.md)      |
+| Day 14                | **Search in Rotated Sorted Array** 🔮 😃 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_14Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -90,6 +91,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 27    | **Merge Without Extra Space**😀 ❤️ 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
 | Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
 | Day 29    | **Sorted and Rotated Minimum**❤️ 🌺 😀                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
+| Day 30    | **Search in Rotated Sorted Array**🔮 😃 🌺                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
 
 ---
 

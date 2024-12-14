@@ -28,6 +28,8 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 11                | **Merge Without Extra Space** 😀 ❤️ 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_11Logic.md)      |
 | Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
 | Day 13                | **Sorted and Rotated Minimum** ❤️ 🌺 😀                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_13Logic.md)      |
+| Day 14                | **Search in Rotated Sorted Array** 🔮 😃 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_14Logic.md)      |
+
 
 
 
