@@ -1,0 +1,50 @@
+Longest Prefix Suffix
+Difficulty: HardAccuracy: 27.91%Submissions: 140K+Points: 8
+Given a string of characters s, find the length of the longest prefix which is also a suffix.
+Note: Prefix and suffix can be overlapping but they should not be equal to the entire string.
+
+Examples :
+
+Input: s = "abab"
+Output: 2
+Explanation: "ab" is the longest prefix and suffix. 
+Input: s = "aabcdaabc"
+Output: 4
+Explanation: The string "aabc" is the longest prefix and suffix.
+Input: s = "aaaa"
+Output: 3
+Explanation: "aaa" is the longest prefix and suffix. 
+Constraints:
+1 ≤ s.size() ≤ 106
+s contains only lowercase English alphabets.
+
+
+
+class Solution {
+    int longestPrefixSuffix(String s) {
+        int n = s.length();
+        int[] lps = new int[n];
+        
+        // KMP pattern matching prefix function calculation
+        int length = 0; // length of the previous longest prefix suffix
+        int i = 1; // Start from the second character
+        
+        while (i < n) {
+            if (s.charAt(i) == s.charAt(length)) {
+                length++;
+                lps[i] = length;
+                i++;
+            } else {
+                if (length != 0) {
+                    length = lps[length - 1]; // Try to find a shorter matching prefix
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+        
+        // lps[n-1] will give us the longest prefix-suffix for the entire string
+        return lps[n - 1];
+    }
+}
