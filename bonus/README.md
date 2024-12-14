@@ -37,9 +37,8 @@ Here's the table updated to include only **Java** solutions:
 | _NUM 1_    | **Fizz Buzz** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus05Logic.md) |
 | _NUM 2_    | **CamelCase Pattern Matching** 🚀🛤️🟰 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
 | _NUM 3_    | **Palindrome Sentence** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
-| _NUM 4_    | **Minimum repeat to make substring** 🌍🔥📊 | [Solution]() |
-| _NUM 5_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus04Logic.md)
-
+| _NUM 4_    | **Minimum repeat to make substring** ✅👑✅ |  [Solution]() |
+| _NUM 5_    | **Longest Prefix Suffix** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
 
 
 </p>

@@ -38,8 +38,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 1_    | **Split Array in Three Equal Sum Subarrays** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus01Logic.md) |
 | _NUM 2_    | **Repetitive Addition of Digits** 🔢🔄💥 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus02Logic.md) |
 | _NUM 3_    | **Maximize Number of 1's** 🔢🔥💡 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus03Logic.md) |
-| _NUM 4_    | **Minimum repeat to make substring** 🌍🔥📊 | [Solution]() |
-| _NUM 5_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus04Logic.md)
+| _NUM 4_    | **Last Moment Before All Ants Fall Out of a Plank** 🐜🌍⏳ | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus04Logic.md)
 
 
 ---
@@ -49,7 +48,8 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 1_    | **Fizz Buzz** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus05Logic.md) |
 | _NUM 2_    | **CamelCase Pattern Matching** 🚀🛤️🟰 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
 | _NUM 3_    | **Palindrome Sentence** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
-| _NUM 4_    | **Longest Prefix Suffix** 🎗️💫☀️ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus09Logic.md) |
+| _NUM 4_    | **Minimum repeat to make substring** ✅👑✅ |  [Solution]() |
+| _NUM 5_    | **Longest Prefix Suffix** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
 
 
 ---
