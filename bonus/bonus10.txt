@@ -1,0 +1,18 @@
+Integer To Words
+Difficulty: MediumAccuracy: 22.4%Submissions: 26K+Points: 4
+Write a function to convert a given number n into words.
+
+The idea is to break down the number into International Number System, i.e., smaller groups of three digits (hundreds, tens, and ones), and convert each group into words.
+
+Examples :
+
+Input: n = 0
+Output: "Zero"
+Input: n = 123
+Output: "One Hundred Twenty Three"
+Input: n = 10245
+Output: "Ten Thousand Two Hundred Forty Five"
+Input: n = 2147483647
+Output: "Two Billion One Hundred Forty Seven Million Four Hundred Eighty Three Thousand Six Hundred Forty Seven"
+Constraints:
+0 <= n <= 231-1
