@@ -30,6 +30,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
 | Day 13                | **Sorted and Rotated Minimum** ❤️ 🌺 😀                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_13Logic.md)      |
 | Day 14                | **Search in Rotated Sorted Array** 🔮 😃 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_14Logic.md)      |
+| Day 15                | **Peak element** 💎 🧡 🌸                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_15Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -96,6 +97,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
 | Day 29    | **Sorted and Rotated Minimum**❤️ 🌺 😀                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
 | Day 30    | **Search in Rotated Sorted Array**🔮 😃 🌺                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
+| Day 31    | **Peak element**💎 🧡 🌸                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day31Logic.md) |
 
 ---
 
