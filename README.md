@@ -29,6 +29,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 11                | **Merge Without Extra Space** 😀 ❤️ 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_11Logic.md)      |
 | Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
 | Day 13                | **Sorted and Rotated Minimum** ❤️ 🌺 😀                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_13Logic.md)      |
+| Day 14                | **Search in Rotated Sorted Array** 🔮 😃 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_14Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -48,9 +49,14 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 1_    | **Fizz Buzz** 💥📊🔢 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus05Logic.md) |
 | _NUM 2_    | **CamelCase Pattern Matching** 🚀🛤️🟰 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus06Logic.md) |
 | _NUM 3_    | **Palindrome Sentence** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
+<<<<<<< HEAD
 | _NUM 4_    | **Minimum repeat to make substring** 🚀👑✅ |  [Solution]() |
 | _NUM 5_    | **Longest Prefix Suffix** 🔢👑🟰 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus09Logic.md) |
 | _NUM 6_    | **Integer to Words** 💥🎁🚀 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus10Logic.md) |
+=======
+| _NUM 4_    | **Minimum repeat to make substring** 🐱 🌸 💎 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus08Logic.md) |
+| _NUM 5_    | **Longest Prefix Suffix** 🎗️💫☀️ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus09Logic.md) |
+>>>>>>> 47c4773c703659febca169e6f618db377e42cad2
 
 
 ---
@@ -93,6 +99,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 27    | **Merge Without Extra Space**😀 ❤️ 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
 | Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
 | Day 29    | **Sorted and Rotated Minimum**❤️ 🌺 😀                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
+| Day 30    | **Search in Rotated Sorted Array**🔮 😃 🌺                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
 
 ---
 

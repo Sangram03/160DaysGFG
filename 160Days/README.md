@@ -37,3 +37,4 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 27    | **Merge Without Extra Space**😀 ❤️ 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
 | Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
 | Day 29    | **Sorted and Rotated Minimum**❤️ 🌺 😀                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
+| Day 30    | **Search in Rotated Sorted Array**🔮 😃 🌺                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
