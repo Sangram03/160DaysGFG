@@ -61,7 +61,7 @@ Let's perform a dry run of the code you provided, which converts an integer to i
 This code contains:
 1. Three arrays (`ones`, `tens`, `thousands`) that help map numbers to their English equivalents.
    - `ones[]` holds English words for numbers 0 to 19.
-   - `tens[]` holds English words for multiples of ten from 20 onward (20, 30, 40, ..., 90).
+   - `tens[]` holds English words for multiples of Ten from 20 onward (20, 30, 40, ..., 90).
    - `thousands[]` holds English words for large place values like Thousand, Million, Billion, etc.
 
 2. The helper function `convertLessThan1000(int num)` is responsible for converting any number less than 1000 to English words.

@@ -1,4 +1,4 @@
-Integer to Words
+Integer To Words
 Difficulty: MediumAccuracy: 22.4%Submissions: 26K+Points: 4
 Write a function to convert a given number n into words.
 

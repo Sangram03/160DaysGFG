@@ -50,7 +50,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 3_    | **Palindrome Sentence** ✅👑✅ |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus07Logic.md) |
 | _NUM 4_    | **Minimum repeat to make substring** 🚀👑✅ |  [Solution]() |
 | _NUM 5_    | **Longest Prefix Suffix** 🔢👑🟰 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus09Logic.md) |
-| _NUM 6_    | **Integer to Words** 💡🎁🚀 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus10Logic.md) |
+| _NUM 6_    | **Integer to Words** 💥🎁🚀 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus10Logic.md) |
 
 
 ---
