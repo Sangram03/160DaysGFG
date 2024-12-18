@@ -32,6 +32,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 15                | **Peak element** 💎 🧡 🌸                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_15Logic.md)      |
 | Day 16                | **K-th element of two Arrays** ⭐💫⭐                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_16Logic.md)      |
 | Day 17                | **Aggressive Cows** 🔥☘️🍁                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_17Logic.md)      |
+| Day 18                | **Allocate Minimum Pages** 📄📄📄                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_18Logic.md)      |
 
 
 

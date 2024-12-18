@@ -41,3 +41,4 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 31    | **Peak element**💎 🧡 🌸                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day31Logic.md) |
 | Day 32    | **K-th element of two Arrays**⭐💫⭐                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day32Logic.md) |
 | Day 33    | **Aggressive Cows**🔥☘️🍁                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day33Logic.md) |
+| Day 34    | **Allocate Minimum Pages**📄📄📄                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day34Logic.md) |
