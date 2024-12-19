@@ -33,6 +33,8 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 16                | **K-th element of two Arrays** ⭐💫⭐                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_16Logic.md)      |
 | Day 17                | **Aggressive Cows** 🔥☘️🍁                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_17Logic.md)      |
 | Day 18                | **Allocate Minimum Pages** 📄📄📄                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_18Logic.md)      |
+| Day 19                | **Kth Missing Positive Number in a Sorted Array** 📜🔢🎯                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_19Logic.md)      |
+
 
 
 

@@ -34,6 +34,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 16                | **K-th element of two Arrays** ⭐💫⭐                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_16Logic.md)      |
 | Day 17                | **Aggressive Cows** 🔥☘️🍁                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_17Logic.md)      |
 | Day 18                | **Allocate Minimum Pages** 📄📄📄                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_18Logic.md)      |
+| Day 19                | **Kth Missing Positive Number in a Sorted Array** 📜🔢🎯                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_19Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -104,6 +105,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 32    | **K-th element of two Arrays**⭐💫⭐                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day32Logic.md) |
 | Day 33    | **Aggressive Cows**🔥☘️🍁                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day33Logic.md) |
 | Day 34    | **Allocate Minimum Pages**📄📄📄                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day34Logic.md) |
+| Day 35    | **Kth Missing Positive Number in a Sorted Array**📜🔢🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day35Logic.md) |
 ---
 
 
