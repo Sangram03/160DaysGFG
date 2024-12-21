@@ -44,3 +44,4 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 34    | **Allocate Minimum Pages**📄📄📄                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day34Logic.md) |
 | Day 35    | **Kth Missing Positive Number in a Sorted Array**📜🔢🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day35Logic.md) |
 | Day 36    | **Spirally traversing a matrix**🎯🔢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day36Logic.md) |
+| Day 37    | **Rotate by 90 degree**🏨🏢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day37Logic.md) |
