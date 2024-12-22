@@ -36,7 +36,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 19                | **Kth Missing Positive Number in a Sorted Array** 📜🔢🎯                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_19Logic.md)      |
 | Day 20                | **Spirally traversing a matrix** 🎯🔢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_20Logic.md)      |
 | Day 21                | **Rotate by 90 degree** 🏨🏢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_21Logic.md)      |
-
+| Day 22                | **Search in a Row-Column sorted matrix** 📃🎯🔢                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_22Logic.md)      |
 
 
 
