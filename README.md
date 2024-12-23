@@ -38,6 +38,7 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 20                | **Spirally traversing a matrix** 🎯🔢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_20Logic.md)      |
 | Day 21                | **Rotate by 90 degree** 🏨🏢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_21Logic.md)      |
 | Day 22                | **Search in a Row-Column sorted matrix** 📃🎯🔢                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_22Logic.md)      |
+| Day 23                | **Search in a row-wise sorted matrix** 🔮 🐱 😃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_23Logic.md)      |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -112,6 +113,7 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 36    | **Spirally traversing a matrix**🎯🔢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day36Logic.md) |
 | Day 37    | **Rotate by 90 degree**🏨🏢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day37Logic.md) |
 | Day 38    | **Search in a Row-Column sorted matrix**📃🎯🔢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day38Logic.md) |
+| Day 39    | **Search in a row-wise sorted matrix**🔮 🐱 😃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day39Logic.md) |
 ---
 
 
