@@ -8,7 +8,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 
 ### 🔮Your feedback is valuable! Please consider leaving a 🌟 star 🌟 and sharing your thoughts in the comments.
 
-## Introduction
+## Introduction 🙂 
 
 This repository contains solutions to daily problems from GeeksforGeeks. Each day, a new problem is provided along with its solution.
 
