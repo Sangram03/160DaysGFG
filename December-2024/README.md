@@ -38,6 +38,15 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 21                | **Rotate by 90 degree** 🏨🏢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_21Logic.md)      |
 | Day 22                | **Search in a Row-Column sorted matrix** 📃🎯🔢                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_22Logic.md)      |
 | Day 23                | **Search in a row-wise sorted matrix** 🔮 🐱 😃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_23Logic.md)      |
+| Day 24                | **Search in a Sorted Matrix**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_24Logic.md)      |
+| Day 25                | **Set Matrix Zeroes**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_25Logic.md)      |
+| Day 26                | **Two Sum - Pair with given Sum**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_26Logic.md)      |
+| Day 27                | **Count pairs with given sum**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_27Logic.md)      |
+| Day 28                | **Find All Triplets with Zero Sum**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_28Logic.md)      |
+| Day 29                | **Intersection of Two arrays with Duplicate Elements**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_29Logic.md)      |
+| Day 30                | **Union of Arrays with Dublicates**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_30Logic.md)      |
+| Day 31                | **Longest Consecutive Subsequence**                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_31Logic.md)      |
+
 
 
 

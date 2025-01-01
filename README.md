@@ -12,33 +12,11 @@ For discussions, questions, or doubts related to this solution, please visit my 
 
 This repository contains solutions to daily problems from GeeksforGeeks. Each day, a new problem is provided along with its solution.
 
-## **📅 December 2024 Problem of the Day Solutions 📅**
+## **📅 January 2025 Problem of the Day Solutions 📅**
 
-| **December**  | **Problem Name**                                    |                          **Java** ☕                          |
+| **January**  | **Problem Name**                                    |                          **Java** ☕                          |
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
-| Day1                | **Non Repeating Character** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_01Logic.md)   |
-| Day 2                | **Search Pattern (KMP-Algorithm)** 🔢🔄💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_02Logic.md)   |
-| Day 3                | **Min Chars to Add for Palindrome** 📃🔄💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_03Logic.md)  |
-| Day 4                | **Strings Rotations of Each Other** 📃💥           |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_04Logic.md)  |
-| Day 5                | **Sort 0s, 1s and 2s** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_05Logic.md)  |
-| Day 6                | **Find H-Index** 📃💥                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_06Logic.md)     |
-| Day 7                | **Count Inversions** 😀 🧡 🌺                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_07Logic.md)      |
-| Day 8                | **Overlapping Intervals** ❤️ 🔮 🐶                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_08Logic.md)      |
-| Day 9                | **Insert Interval** 🌸 💎 😃                    |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_09Logic.md)      |
-| Day 10                | **Non-overlapping Intervals** 😃 🌸 🐱                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_10Logic.md)      |
-| Day 11                | **Merge Without Extra Space** 😀 ❤️ 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_11Logic.md)      |
-| Day 12                | **Number of occurrence** 😃 🌸 🐶                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_12Logic.md)      |
-| Day 13                | **Sorted and Rotated Minimum** ❤️ 🌺 😀                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_13Logic.md)      |
-| Day 14                | **Search in Rotated Sorted Array** 🔮 😃 🌺                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_14Logic.md)      |
-| Day 15                | **Peak element** 💎 🧡 🌸                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_15Logic.md)      |
-| Day 16                | **K-th element of two Arrays** ⭐💫⭐                   |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_16Logic.md)      |
-| Day 17                | **Aggressive Cows** 🔥☘️🍁                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_17Logic.md)      |
-| Day 18                | **Allocate Minimum Pages** 📄📄📄                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_18Logic.md)      |
-| Day 19                | **Kth Missing Positive Number in a Sorted Array** 📜🔢🎯                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_19Logic.md)      |
-| Day 20                | **Spirally traversing a matrix** 🎯🔢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_20Logic.md)      |
-| Day 21                | **Rotate by 90 degree** 🏨🏢📃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_21Logic.md)      |
-| Day 22                | **Search in a Row-Column sorted matrix** 📃🎯🔢                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_22Logic.md)      |
-| Day 23                | **Search in a row-wise sorted matrix** 🔮 🐱 😃                  |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/December-2024/Dec_23Logic.md)      |
+| Day1                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01logic.md)   |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -93,27 +71,37 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 16    | **Anagram** 🔄✏️                                          | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day16Logic.md) |
 | Day 17    | **Non Repeating Character** 🔠❌                            | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day17Logic.md) |
 | Day 18    | **Search Pattern (KMP Algorithm)** 🔍📜                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day18Logic.md) |
-| Day 19    | **Min Chars to Add for Palindrome** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day19Logic.md) |
+| Day 19    | **Min Chars to Add for Palindrome** 🔍📕                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day19Logic.md) |
 | Day 20    | **Strings Rotations of Each Other** 🔍📃                     | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day20Logic.md) |
-| Day 21    | **Sort 0s, 1s and 2s** 📃📏✏️                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
-| Day 22    | **Find H-Index** 🔮 🐱 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day22Logic.md) |
-| Day 23    | **Count Inversions** 😀 🧡 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day23Logic.md) |
-| Day 24    | **Overlapping Intervals** ❤️ 🔮 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day24Logic.md) |
-| Day 25    | **Insert Interval**🌸 💎 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day25Logic.md) |
-| Day 26    | **Non-overlapping Intervals**😃 🌸 🐱                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day26Logic.md) |
-| Day 27    | **Merge Without Extra Space**😀 ❤️ 🌺                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
-| Day 28    | **Number of occurrence**😃 🌸 🐶                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
-| Day 29    | **Sorted and Rotated Minimum**❤️ 🌺 😀                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
-| Day 30    | **Search in Rotated Sorted Array**🔮 😃 🌺                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
-| Day 31    | **Peak element**💎 🧡 🌸                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day31Logic.md) |
-| Day 32    | **K-th element of two Arrays**⭐💫⭐                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day32Logic.md) |
-| Day 33    | **Aggressive Cows**🔥☘️🍁                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day33Logic.md) |
-| Day 34    | **Allocate Minimum Pages**📄📄📄                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day34Logic.md) |
-| Day 35    | **Kth Missing Positive Number in a Sorted Array**📜🔢🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day35Logic.md) |
-| Day 36    | **Spirally traversing a matrix**🎯🔢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day36Logic.md) |
-| Day 37    | **Rotate by 90 degree**🏨🏢📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day37Logic.md) |
-| Day 38    | **Search in a Row-Column sorted matrix**📃🎯🔢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day38Logic.md) |
-| Day 39    | **Search in a row-wise sorted matrix**🔮 🐱 😃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day39Logic.md) |
+| Day 21    | **Sort 0s, 1s and 2s** 📃📏                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day21Logic.md) |
+| Day 22    | **Find H-Index** 🔏🔍                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day22Logic.md) |
+| Day 23    | **Count Inversions** 😀 🧡                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day23Logic.md) |
+| Day 24    | **Overlapping Intervals** 🔩⚙️                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day24Logic.md) |
+| Day 25    | **Insert Interval**🌸 💎                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day25Logic.md) |
+| Day 26    | **Non-overlapping Intervals**📏📐                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day26Logic.md) |
+| Day 27    | **Merge Without Extra Space**🩹⛓️                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day27Logic.md) |
+| Day 28    | **Number of occurrence**🧾🏷️                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day28Logic.md) |
+| Day 29    | **Sorted and Rotated Minimum**❤️ 🌺                                   | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day29Logic.md) |
+| Day 30    | **Search in Rotated Sorted Array**🔮 😃                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day30Logic.md) |
+| Day 31    | **Peak element**💎 🧡                                  | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day31Logic.md) |
+| Day 32    | **K-th element of two Arrays**⭐💫                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day32Logic.md) |
+| Day 33    | **Aggressive Cows**🔥☘️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day33Logic.md) |
+| Day 34    | **Allocate Minimum Pages**📄📄                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day34Logic.md) |
+| Day 35    | **Kth Missing Positive Number in a Sorted Array**📜🔢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day35Logic.md) |
+| Day 36    | **Spirally traversing a matrix**🎯🔢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day36Logic.md) |
+| Day 37    | **Rotate by 90 degree**🏨🏢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day37Logic.md) |
+| Day 38    | **Search in a Row-Column sorted matrix**🎯🔢                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day38Logic.md) |
+| Day 39    | **Search in a row-wise sorted matrix**✅🕖                               | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day39Logic.md) |
+| Day 40    | **Search in a sorted matrix**🛠️📑                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day40Logic.md) |
+| Day 41    | **Set matrix Zeroes**📄📨                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day41Logic.md) |
+| Day 42    | **Two Sum -Pair with Given Sum**🏅📦                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day42Logic.md) |
+| Day 43    | **Count pairs with given sum**  🔢🧮                             | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day43Logic.md) |
+| Day 44    | **Find All Triplets with Zero Sum**📝🖊️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day44Logic.md) |
+| Day 45    | **Intersection of Two arrays with Dublicate Elements**📕✏️                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day45Logic.md) |
+| Day 46    | **Union of Arrays with Duplicates**📚📦                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day46Logic.md) |
+| Day 47    | **Longest Consecutive Subsequence**➕🗯️                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day47Logic.md) |
+| Day 48    | **Print Anagrams Together**🧩🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day48Logic.md) |
+
 ---
 
 

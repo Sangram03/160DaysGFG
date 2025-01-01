@@ -1,0 +1,3 @@
+Search in a sorted matrix
+You are given a strictly sorted 2D matrix mat[][] of size n x m and a number x. Your task is to find whether the number x is present in the matrix or not.
+Note :- In the strictly sorted matrix ,each row is sorted in strictly increasing order , and the first elements of the ith row(i!=0) is greater than the last elements of the (i-1)th row
