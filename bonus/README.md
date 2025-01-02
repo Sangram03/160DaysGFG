@@ -41,4 +41,16 @@ Here's the table updated to include only **Java** solutions:
 | _NUM 5_    | **Longest Prefix Suffix** 🔢👑🟰 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus09Logic.md) |
 | _NUM 6_    | **Integer to Words** 💥🎁🚀 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus10Logic.md) |
 
+
+
+## **📏 Bonus Problems (Sorting)📐**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Minimum sum** ➕📊 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus11Logic.md) |
+| _NUM 2_    | **Meeting Rooms** 🏢📅 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus12Logic.md) |
+| _NUM 3_    | **From the Largest Number** 🔢🏆 |  [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus13Logic.md) |
+| _NUM 4_    | **Make array elements unique** 🎲🔧 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus14Logic.md) |
+
+
+
 </p>

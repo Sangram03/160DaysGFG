@@ -1,0 +1,67 @@
+Minimum sum
+Difficulty: MediumAccuracy: 17.14%Submissions: 144K+Points: 4
+Given an array arr[] such that each element is in the range [0, 9] find the minimum possible sum of two numbers formed using the elements of the array. All digits in the given array must be used to form the two numbers. Return a string without leading zeroes.
+
+Examples :
+
+Input: arr[] = [6, 8, 4, 5, 2, 3]
+Output: "604"
+Explanation: The minimum sum is formed by numbers 358 and 246.
+Input: arr[] = [5, 3, 0, 7, 4]
+Output: "82"
+Explanation: The minimum sum is formed by numbers 35 and 047.
+Input: arr[] = [9, 4]
+Output: "13"
+Explanation: The minimum sum is formed by numbers 9 and 4.
+Constraints:
+1 ≤ arr.size() ≤ 106
+0 ≤ arr[i] ≤ 9
+
+
+
+
+
+
+
+class Solution {
+    public String minSum(int[] arr) {
+        Arrays.sort(arr);
+        StringBuilder num1 = new StringBuilder();
+        StringBuilder num2 = new StringBuilder();
+        boolean toggle = true;
+
+        for (int num : arr) {
+            if (toggle) {
+                if (!(num == 0 && num1.length() == 0)) {
+                    num1.append(num);
+                }
+            } else {
+                if (!(num == 0 && num2.length() == 0)) {
+                    num2.append(num);
+                }
+            }
+            toggle = !toggle;
+        }
+
+        if (num1.length() == 0) num1.append("0");
+        if (num2.length() == 0) num2.append("0");
+
+        return findSum(num1.toString(), num2.toString());
+    }
+
+    private String findSum(String str1, String str2) {
+        int n1 = str1.length(), n2 = str2.length();
+        int carry = 0;
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i < Math.max(n1, n2) || carry > 0; i++) {
+            int digit1 = i < n1 ? str1.charAt(n1 - i - 1) - '0' : 0;
+            int digit2 = i < n2 ? str2.charAt(n2 - i - 1) - '0' : 0;
+            int sum = digit1 + digit2 + carry;
+            result.append(sum % 10);
+            carry = sum / 10;
+        }
+
+        return result.reverse().toString();
+    }
+}
