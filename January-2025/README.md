@@ -14,4 +14,5 @@ For discussions, questions, or doubts related to this solution, please visit my 
 
 | **January**  | **Problem Name**                                    |                          **Java** ☕                          |
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
-| Day1                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01logic.md)   |
+| Day 01                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01logic.md)   |
+| Day 02                | **Subarrays with sum K** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day02logic.md)   |

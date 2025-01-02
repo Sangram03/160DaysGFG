@@ -16,7 +16,8 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 
 | **January**  | **Problem Name**                                    |                          **Java** ☕                          |
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
-| Day1                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01logic.md)   |
+| Day 01                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01logic.md)   |
+| Day 02                | **Subarrays with sum K** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day02logic.md)   |
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -101,6 +102,8 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 46    | **Union of Arrays with Duplicates**📚📦                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day46Logic.md) |
 | Day 47    | **Longest Consecutive Subsequence**➕🗯️                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day47Logic.md) |
 | Day 48    | **Print Anagrams Together**🧩🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day48Logic.md) |
+| Day 49    | **Subarrays with sum K**🛠️📑                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day49Logic.md) |
+
 
 ---
 
