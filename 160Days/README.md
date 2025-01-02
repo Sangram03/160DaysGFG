@@ -56,5 +56,6 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 46    | **Union of Arrays with Duplicates**📚📦                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day46Logic.md) |
 | Day 47    | **Longest Consecutive Subsequence**➕🗯️                                | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day47Logic.md) |
 | Day 48    | **Print Anagrams Together**🧩🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day48Logic.md) |
+| Day 49    | **Subarrays with sum K**🛠️📑                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day49Logic.md) |
 
 ---
