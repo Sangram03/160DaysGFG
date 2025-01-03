@@ -16,3 +16,4 @@ For discussions, questions, or doubts related to this solution, please visit my 
 |:-----------------------:|:--------------------------------------------------:|:-----------------------------------------------------------:|
 | Day 01                | **Print Anagrams Together** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01Logic.md)   |
 | Day 02                | **Subarrays with sum K** 💥📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day02Logic.md)   |
+| Day 03                | **Count Subarrays with given XOR** 🔢🌟 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day03Logic.md)   |
