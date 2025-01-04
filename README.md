@@ -8,7 +8,7 @@ For discussions, questions, or doubts related to this solution, please visit my 
 
 ### 🔮Your feedback is valuable! Please consider leaving a 🌟 star 🌟 and sharing your thoughts in the comments.
 
-## Introduction 🙂 
+## Introduction 🙂
 
 This repository contains solutions to daily problems from GeeksforGeeks. Each day, a new problem is provided along with its solution.
 
@@ -19,6 +19,8 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | Day 01                | **Print Anagrams Together** 💥🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day01Logic.md)   |
 | Day 02                | **Subarrays with sum K** 📊🔢 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day02Logic.md)   |
 | Day 03                | **Count Subarrays with given XOR** 🔢🌟 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day03Logic.md)   |
+| Day 04                | **Count all triplets with given sum in sorted array** 🧩📃 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day04Logic.md)   |
+
 
 
 ## **🎉 Bonus Problems (Arrays)🎁**
@@ -115,11 +117,8 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 48    | **Print Anagrams Together**🧩🎯                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day48Logic.md) |
 | Day 49    | **Subarrays with sum K**🛠️📑                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day49Logic.md) |
 | Day 50    | **Count Subarrays with given XOR**🖊️📝                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day50Logic.md) |
+| Day 51    | **Count all triplets with given sum in sorted array**🧩📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day51Logic.md) |
 
 
 ---
-
-
-
-
 

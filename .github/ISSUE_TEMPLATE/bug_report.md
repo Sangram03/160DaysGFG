@@ -61,7 +61,7 @@ If you have an idea of how to fix the issue, provide it here (optional).
 
 ---
 
-**Priority:** 
+**Priority:**
 - [ ] Low
 - [ ] Medium
 - [ ] High
