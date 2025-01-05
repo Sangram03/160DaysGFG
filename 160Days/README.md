@@ -59,6 +59,6 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 49    | **Subarrays with sum K**🛠️📑                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day49Logic.md) |
 | Day 50    | **Count Subarrays with given XOR**🖊️📝                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day50Logic.md) |
 | Day 51    | **Count all triplets with given sum in sorted array**🧩📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day51Logic.md) |
-
+| Day 52    | **Count Pairs whose sum is less than target**📏📐                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day52Logic.md) |
 
 ---
