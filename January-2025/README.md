@@ -19,4 +19,4 @@ For discussions, questions, or doubts related to this solution, please visit my 
 | Day 03                | **Count Subarrays with given XOR** 🔢🌟 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day03Logic.md)   |
 | Day 04                | **Count all triplets with given sum in sorted array** 🧩📃 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day04Logic.md)   |
 | Day 05                | **Count Pairs whose sum is less than target** 📏📐 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day05Logic.md)   |
-| Day 06                | **Sum Pair closest to target** 📏📐 |   [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/January-2025/day06Logic.md)   |
+| Day 06                | **Sum Pair closest to target** 📏📐 |   [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/January-2025/day06Logic.md)   |
