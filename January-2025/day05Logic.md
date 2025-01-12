@@ -13,7 +13,7 @@ Here's a simple and efficient solution to count the number of pairs whose sum is
 
 ### Code Implementation (Java):
 ```java
-import java.util.Arrays;
+
 
 class Solution {
     int countPairs(int arr[], int target) {
