@@ -60,5 +60,12 @@ Here's the updated list with the problem days properly formatted in the solution
 | Day 50    | **Count Subarrays with given XOR**🖊️📝                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day50Logic.md) |
 | Day 51    | **Count all triplets with given sum in sorted array**🧩📃                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day51Logic.md) |
 | Day 52    | **Count Pairs whose sum is less than target**📏📐                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day52Logic.md) |
+| Day 53    | **Sum Pair closest to target**📚✏️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day53Logic.md) |
+| Day 54    | **Pair with given sum in a sorted array**📕🖊️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day54Logic.md) |
+| Day 55    | **Count the number of possible triangles**📑✒️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day55Logic.md) |
+| Day 56    | **Indexes of Subarray Sum**📘📝                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day56Logic.md) |
+| Day 57    | **Count distinct elements in every window**📏📚                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day57Logic.md) |
+| Day 58    | **Longest substring with distinct characters**📙🖋️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day58Logic.md) |
+| Day 59    | **Trapping Rain Water**📑✒️                                 | [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/160Days/day59Logic.md) |
 
 ---
