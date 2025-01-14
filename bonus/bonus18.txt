@@ -1,0 +1,45 @@
+Square Root
+Difficulty: EasyAccuracy: 54.03%Submissions: 291K+Points: 2
+Given a positive integer n, find the square root of n. If n is not a perfect square, then return the floor value.
+
+Floor value of any number is the greatest Integer which is less than or equal to that number
+
+Examples:
+
+Input: n = 4
+Output: 2
+Explanation: Since, 4 is a perfect square, so its square root is 2.
+Input: n = 11
+Output: 3
+Explanation: Since, 11 is not a perfect square, floor of square root of 11 is 3.
+Input: n = 1
+Output: 1
+Constraints:
+1 ≤ n ≤  3 x 104.
+
+// Solution:-
+
+class Solution {
+    int floorSqrt(int n) {
+        if (n == 0 || n == 1) {
+            return n;
+        }
+
+        int left = 1, right = n, ans = 0;
+
+        // Binary search for floor of square root
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            // Check if mid*mid equals n
+            if (mid <= n / mid) {
+                ans = mid; // Store the current result
+                left = mid + 1; // Move to the right half
+            } else {
+                right = mid - 1; // Move to the left half
+            }
+        }
+
+        return ans;
+    }
+}
