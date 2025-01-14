@@ -67,6 +67,19 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 4_    | **Make array elements unique** 🎲🔧 |  [Solution](https://github.com/Sangram03/160DaysGFG/blob/main/bonus/bonus14Logic.md) |
 
 
+---
+
+## **🎉 Bonus Problems (Searching)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Implement Lower Bound** 💥🔢 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus15Logic.md) |
+| _NUM 2_    | **Bitonic Point** 🚀🟰 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus16Logic.md) |
+| _NUM 3_    | **Median of 2 Sorted Arrays of Different Sizes** ✅👑 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus17Logic.md) |
+| _NUM 4_    | **Square Root** 🚀✅ |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus18Logic.md) |
+| _NUM 5_    | **Koko Eating Bananas** 🔢🟰 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus19Logic.md) |
+| _NUM 6_    | **Minimum days to make M bouquets** 💥🚀 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus20Logic.md) |
+
+
 ## **🎉 160 Days of GFG Challenge 🎁**
 
 ---
