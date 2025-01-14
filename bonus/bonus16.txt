@@ -1,0 +1,44 @@
+Bitonic Point
+Difficulty: EasyAccuracy: 58.67%Submissions: 135K+Points: 2
+Given an array of integers arr[] that is first strictly increasing and then maybe strictly decreasing, find the bitonic point, that is the maximum element in the array.
+Bitonic Point is a point before which elements are strictly increasing and after which elements are strictly decreasing.
+
+Examples:
+
+Input: arr[] = [1, 2, 4, 5, 7, 8, 3]
+Output: 8
+Explanation: Elements before 8 are strictly increasing [1, 2, 4, 5, 7] and elements after 8 are strictly decreasing [3].
+Input: arr[] = [10, 20, 30, 40, 50]
+Output: 50
+Explanation: Elements before 50 are strictly increasing [10, 20, 30 40] and there are no elements after 50.
+Input: arr[] = [120, 100, 80, 20, 0]
+Output: 120
+Explanation: There are no elements before 120 and elements after 120 are strictly decreasing [100, 80, 20, 0].
+Constraints:
+3 ≤ arr.size() ≤ 105
+1 ≤ arr[i]≤ 106.
+
+// Solution:-
+
+class Solution {
+    public int findMaximum(int[] arr) {
+        int left = 0, right = arr.length - 1;
+
+        // Perform binary search
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            // Compare mid with mid + 1
+            if (arr[mid] > arr[mid + 1]) {
+                // Move towards the decreasing part
+                right = mid;
+            } else {
+                // Move towards the increasing part
+                left = mid + 1;
+            }
+        }
+
+        // `left` or `right` points to the bitonic point
+        return arr[left];
+    }
+}
