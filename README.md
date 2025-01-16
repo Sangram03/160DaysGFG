@@ -80,6 +80,18 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 6_    | **Minimum days to make M bouquets** 💥🚀 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus20Logic.md) |
 
 
+----
+
+
+## **🎉 Bonus Problems (Matrix)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Rotate a Matrix by 180 Counterclockwise** 💥🔢 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus21Logic.md) |
+| _NUM 2_    | **Create a spiral matrix of N*M size from given array** 🚀🟰 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus22Logic.md) |
+| _NUM 3_    | **Generate a matrix with each row and column of given sum** ✅👑 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus23Logic.md) |
+| _NUM 4_    | **Make Matrix Beautiful** 🚀✅ |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus24Logic.md) |
+
+
 ## **🎉 160 Days of GFG Challenge 🎁**
 
 ---

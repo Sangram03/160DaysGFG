@@ -1,0 +1,52 @@
+Rotate a Matrix by 180 Counterclockwise
+Difficulty: EasyAccuracy: 52.99%Submissions: 12K+Points: 2
+Given a 2D square matrix mat[][] of size n x n, turn it by 180 degrees without using extra space.
+
+Note: You must rotate the matrix in place and modify the input matrix directly.
+
+Examples:
+
+Input: mat[][] = [[1, 2],
+                [3, 4]]
+Output: [[4, 3], 
+        [2, 1]]
+Input:  mat[][] = [[1, 2, 3, 4], 
+                 [5, 6, 7 ,8], 
+                 [9, 10, 11, 12],
+                 [13, 14, 15, 16]]
+Output: [[16, 15, 14, 13], 
+        [12, 11, 10, 9], 
+        [8, 7, 6, 5], 
+        [4, 3, 2, 1]]
+Constraints:
+1 ≤ n ≤ 500
+0 <= mat[i][j] <= 104.
+
+
+// Solution:
+
+class Solution {
+    public void rotateMatrix(int[][] mat) {
+        int n = mat.length;
+
+        // Rotate the matrix by 180 degrees in place
+        for (int i = 0; i < n / 2; i++) {
+            for (int j = 0; j < n; j++) {
+                // Swap elements between top and bottom rows
+                int temp = mat[i][j];
+                mat[i][j] = mat[n - i - 1][n - j - 1];
+                mat[n - i - 1][n - j - 1] = temp;
+            }
+        }
+
+        // If n is odd, reverse the middle row
+        if (n % 2 != 0) {
+            int middle = n / 2;
+            for (int j = 0; j < n / 2; j++) {
+                int temp = mat[middle][j];
+                mat[middle][j] = mat[middle][n - j - 1];
+                mat[middle][n - j - 1] = temp;
+            }
+        }
+    }
+}
