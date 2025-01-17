@@ -92,6 +92,20 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 4_    | **Make Matrix Beautiful** 🚀✅ |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus24Logic.md) |
 
 
+----
+
+
+## **🎉 Bonus Problems (Hashing)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Roman Number to Integer** 💥🔢 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus25Logic.md) |
+| _NUM 2_    | **Max distance between same elements** 🚀🟰 | [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus26Logic.md) |
+| _NUM 3_    | **Pairs with difference k** ✅👑 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus27Logic.md) |
+| _NUM 4_    | **4 Sum – Count quadruplets with given sum** 🚀✅ |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus28Logic.md) |
+| _NUM 5_    | **Min Subsets with Consecutive Numbers** 🔢🟰 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus29Logic.md) |
+| _NUM 6_    | **Group Shifted String** 💥🚀 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus30Logic.md) |
+
+
 ## **🎉 160 Days of GFG Challenge 🎁**
 
 ---
