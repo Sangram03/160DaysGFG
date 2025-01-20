@@ -106,6 +106,15 @@ This repository contains solutions to daily problems from GeeksforGeeks. Each da
 | _NUM 6_    | **Group Shifted String** 💥🚀 |  [Solution](https://github.com/Krushna-Chandra/160DaysGFG/blob/main/bonus/bonus30Logic.md) |
 
 
+---
+
+
+## **🎉 Bonus Problems (Two Pointer Technique)🎁**
+| **Bonus Problem No.**  | **Problem Name**                                    | **Java** ☕                                                                                                                          |
+|:--------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| _NUM 1_    | **Triplet Sum in Array** 💥🔢 | [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus31Logic.md) |
+| _NUM 2_    | **3 Sum Closest** 🚀🟰 | [Solution](https://github.com/Bhababhanjan1/160DaysGFG/blob/main/bonus/bonus32Logic.md) |
+
 ## **🎉 160 Days of GFG Challenge 🎁**
 
 ---
