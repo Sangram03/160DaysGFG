@@ -1,5 +1,11 @@
  <h1 align = "center"> 📜 Table of Contents 📜</h1>
 
+<p align="center">
+<img src="https://img.shields.io/github/stars/sangram03/160DaysGFG?style=social" alt="GitHub stars" />
+<img src="https://img.shields.io/github/forks/sangram03/160DaysGFG?style=social" alt="GitHub forks" />
+<img src="https://img.shields.io/github/license/sangram03/160DaysGFG?style=social" alt="License" />   
+</p>
+
 <!--Line-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
